@@ -5,9 +5,23 @@ namespace Task1
 {
     public class PasswordCheckerService
     {
-        private SqlRepository repository = new SqlRepository();
+        private IRepository repository;
 
-        public Tuple<bool, string> VerifyPassword(string password)
+        public Tuple<bool, string> CreateUser(string password, IRepository repo)
+        {
+            Tuple<bool, string> flag = VerifyPassword(password);
+
+            if (flag.Item1)
+            {
+                repository = repo;
+                repository.Create(password);
+                return flag;
+            }
+
+            return flag;
+        }
+
+        private Tuple<bool, string> VerifyPassword(string password)
         {
             if (password == null)
                 throw new ArgumentException($"{password} is null arg");
@@ -30,8 +44,6 @@ namespace Task1
             // check if password conatins at least one digit character 
             if (!password.Any(char.IsNumber))
                 return Tuple.Create(false, $"{password} hasn't digits");
-
-            repository.Create(password);
 
             return Tuple.Create(true, "Password is Ok. User was created");
         }
