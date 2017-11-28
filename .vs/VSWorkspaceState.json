@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\NET.W.2017.Dubovik.Test"
+    "\\NET.W.2017.Dubovik.Test",
+    "\\NET.W.2017.Dubovik.Test\\Task5",
+    "\\NET.W.2017.Dubovik.Test\\Task5.Solution"
   ],
   "SelectedNode": "\\NET.W.2017.Dubovik.Test\\NET.W.2017.LastName.Test.sln",
   "PreviewInSolutionExplorer": false
