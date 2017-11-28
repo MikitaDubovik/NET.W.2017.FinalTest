@@ -22,6 +22,8 @@
             Console.WriteLine(document.ToPlainText());
 
             Console.WriteLine(document.ToLaTeX());
+
+            Console.ReadKey();
         }
     }
 }

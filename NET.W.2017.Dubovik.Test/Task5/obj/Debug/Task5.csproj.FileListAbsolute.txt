@@ -12,3 +12,10 @@ C:\Users\MIB\Desktop\23.11.2017\Task5\obj\Debug\Task5.csprojResolveAssemblyRefer
 C:\Users\MIB\Desktop\23.11.2017\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
 C:\Users\MIB\Desktop\23.11.2017\Task5\obj\Debug\Task5.dll
 C:\Users\MIB\Desktop\23.11.2017\Task5\obj\Debug\Task5.pdb
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5\bin\Debug\Task5.dll.config
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5\bin\Debug\Task5.dll
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5\bin\Debug\Task5.pdb
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5\obj\Debug\Task5.dll
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5\obj\Debug\Task5.pdb

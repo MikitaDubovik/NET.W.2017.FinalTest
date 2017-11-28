@@ -10,7 +10,17 @@ namespace Task3.Console
     {
         static void Main(string[] args)
         {
+            var bank = new Bank("NextBank");
+            var broker = new Broker("OldBroker");
 
+            var stock = new Stock();
+
+            stock.StocksInfo += bank.Update;
+            stock.StocksInfo += broker.Update;
+
+            stock.Market();
+
+            System.Console.ReadLine();
         }
     }
 }
