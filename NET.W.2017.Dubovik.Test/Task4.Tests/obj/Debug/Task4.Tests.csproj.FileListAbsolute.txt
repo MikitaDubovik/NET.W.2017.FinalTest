@@ -18,3 +18,13 @@ C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.csprojResolveA
 C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.csproj.CoreCompileInputs.cache
 C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.dll
 C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.pdb
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Tests\bin\Debug\Task4.Tests.dll
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Tests\bin\Debug\Task4.Tests.pdb
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Tests\obj\Debug\Task4.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Tests\obj\Debug\Task4.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Tests\obj\Debug\Task4.Tests.dll
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Tests\obj\Debug\Task4.Tests.pdb
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Tests\bin\Debug\Task4.Solution.dll
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Tests\bin\Debug\Task4.Solution.pdb

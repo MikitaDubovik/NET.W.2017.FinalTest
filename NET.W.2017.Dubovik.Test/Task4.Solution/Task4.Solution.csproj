@@ -40,6 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalculatorWithDele.cs" />
+    <Compile Include="CalculatorWithInter.cs" />
+    <Compile Include="ComputingDoubleMean.cs" />
+    <Compile Include="ComputingDoubleMedian.cs" />
+    <Compile Include="IDoubleCalculator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

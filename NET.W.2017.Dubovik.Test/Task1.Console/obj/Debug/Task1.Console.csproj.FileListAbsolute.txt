@@ -1,0 +1,6 @@
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task1.Console\bin\Debug\Task1.Console.exe.config
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task1.Console\bin\Debug\Task1.Console.exe
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task1.Console\bin\Debug\Task1.Console.pdb
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task1.Console\obj\Debug\Task1.Console.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task1.Console\obj\Debug\Task1.Console.exe
+C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task1.Console\obj\Debug\Task1.Console.pdb
