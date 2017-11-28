@@ -10,7 +10,7 @@ namespace Task_2.Solution
 
         public override string FileExtension => ".bytes";
 
-        protected override byte[] GenerateFileContent(int contentLength)
+        public override byte[] GenerateFileContent(int contentLength)
         {
             var random = new Random();
 

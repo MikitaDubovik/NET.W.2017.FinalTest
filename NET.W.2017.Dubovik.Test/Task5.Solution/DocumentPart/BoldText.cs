@@ -4,7 +4,7 @@
     {
         public override string Transform(ITransformer transformer)
         {
-            return transformer.ToLaTeX(this.Text);
+            return transformer.ConvertToLaTeX(this.Text);
         }
     }
 }

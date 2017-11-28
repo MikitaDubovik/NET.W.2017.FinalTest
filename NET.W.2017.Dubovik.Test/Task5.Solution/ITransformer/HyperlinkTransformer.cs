@@ -12,7 +12,7 @@ namespace Task5
 
         public string ConvertPlainText(string text) => text;
 
-        public string ToLaTeX(string text) => "<b>" + text + "</b>";
+        public string ConvertToLaTeX(string text) => "<b>" + text + "</b>";
 
     }
 }

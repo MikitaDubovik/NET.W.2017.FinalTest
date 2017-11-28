@@ -12,6 +12,6 @@ namespace Task5
 
         string ConvertPlainText(string text);
 
-        string ToLaTeX(string text);
+        string ConvertToLaTeX(string text);
     }
 }

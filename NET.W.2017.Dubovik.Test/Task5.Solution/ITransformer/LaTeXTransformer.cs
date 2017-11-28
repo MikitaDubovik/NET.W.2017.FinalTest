@@ -12,6 +12,6 @@ namespace Task5
 
         public string ConvertPlainText(string text) => text;
 
-        public string ToLaTeX( string text) => "\\textbf{" + text + "}";
+        public string ConvertToLaTeX( string text) => "\\textbf{" + text + "}";
     }
 }

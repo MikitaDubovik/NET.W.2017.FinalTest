@@ -13,7 +13,7 @@ namespace Task2.Solution
         public abstract string WorkingDirectory { get; }
         public abstract string FileExtension { get; }
 
-        protected abstract byte[] GenerateFileContent(int contentLength);
+        public abstract byte[] GenerateFileContent(int contentLength);
 
         public void GenerateFiles(int filesCount, int contentLength)
         {

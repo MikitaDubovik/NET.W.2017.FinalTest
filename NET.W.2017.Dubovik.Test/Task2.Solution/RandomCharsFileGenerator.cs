@@ -12,7 +12,7 @@ namespace Task_2.Solution
 
         public override string FileExtension => ".txt";
 
-        protected override byte[] GenerateFileContent(int contentLength)
+        public override byte[] GenerateFileContent(int contentLength)
         {
             var generatedString = this.RandomString(contentLength);
 
