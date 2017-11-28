@@ -26,3 +26,12 @@ C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\obj\Debug\Task5.Console.pdb
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\bin\Debug\Task5.Solution.dll
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\bin\Debug\Task5.Solution.pdb
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\bin\Debug\Task5.Console.exe.config
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\bin\Debug\Task5.Console.exe
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\bin\Debug\Task5.Console.pdb
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\bin\Debug\Task5.Solution.dll
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\bin\Debug\Task5.Solution.pdb
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\obj\Debug\Task5.Console.csprojResolveAssemblyReference.cache
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\obj\Debug\Task5.Console.csproj.CoreCompileInputs.cache
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\obj\Debug\Task5.Console.exe
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task5.Console\obj\Debug\Task5.Console.pdb

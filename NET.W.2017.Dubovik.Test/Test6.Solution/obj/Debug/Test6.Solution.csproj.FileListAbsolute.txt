@@ -10,3 +10,9 @@ C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Test6.Solution\obj\Debug\Test6.Solution.pdb
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Test6.Solution\bin\Debug\Test6.Solution.dll
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Test6.Solution\bin\Debug\Test6.Solution.pdb
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Test6.Solution\bin\Debug\Test6.Solution.dll
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Test6.Solution\bin\Debug\Test6.Solution.pdb
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Test6.Solution\obj\Debug\Test6.Solution.csprojResolveAssemblyReference.cache
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Test6.Solution\obj\Debug\Test6.Solution.csproj.CoreCompileInputs.cache
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Test6.Solution\obj\Debug\Test6.Solution.dll
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Test6.Solution\obj\Debug\Test6.Solution.pdb

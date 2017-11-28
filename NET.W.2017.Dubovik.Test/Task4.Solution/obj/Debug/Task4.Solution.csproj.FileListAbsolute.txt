@@ -16,3 +16,9 @@ C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Solution\obj\Debug\Task4.Solution.csproj.CoreCompileInputs.cache
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Solution\obj\Debug\Task4.Solution.dll
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Solution\obj\Debug\Task4.Solution.pdb
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Solution\bin\Debug\Task4.Solution.dll
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Solution\bin\Debug\Task4.Solution.pdb
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Solution\obj\Debug\Task4.Solution.csprojResolveAssemblyReference.cache
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Solution\obj\Debug\Task4.Solution.csproj.CoreCompileInputs.cache
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Solution\obj\Debug\Task4.Solution.dll
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task4.Solution\obj\Debug\Task4.Solution.pdb

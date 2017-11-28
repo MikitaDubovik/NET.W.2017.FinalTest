@@ -8,22 +8,26 @@
     {
         static void Main(string[] args)
         {
-            List<DocumentPart> parts = new List<DocumentPart>
-                {
-                    new PlainText {Text = "Some plain text"},
-                    new Hyperlink {Text = "google.com", Url = "https://www.google.by/"},
-                    new BoldText {Text = "Some bold text"}
-                };
+            var hyperlinkTransformer = new HyperlinkTransformer();
+            var laTeXTransformer = new LaTeXTransformer();
+            var plainTextTransformer = new PlainTextTransformer();
 
-            Document document = new Document(parts);
+            var parts = new List<DocumentPart>
+            {
+                new PlainText {Text = "Some plain text"},
+                new Hyperlink {Text = "google.com", Url = "https://www.google.by/"},
+                new BoldText {Text = "Some bold text"}
+            };
 
-            Console.WriteLine(document.ToHtml());
+            var document = new Document(parts);
 
-            Console.WriteLine(document.ToPlainText());
+            Console.WriteLine(document.Convert(hyperlinkTransformer));
 
-            Console.WriteLine(document.ToLaTeX());
+            Console.WriteLine(document.Convert(plainTextTransformer));
 
-            Console.ReadKey();
+            Console.WriteLine(document.Convert(laTeXTransformer));
+
+            Console.ReadLine();
         }
     }
 }

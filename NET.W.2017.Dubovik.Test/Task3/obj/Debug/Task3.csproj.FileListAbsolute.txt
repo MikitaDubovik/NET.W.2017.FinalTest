@@ -14,3 +14,9 @@ C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task3\obj\Debug\Task3.dll
 C:\Users\Никита\Source\Repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task3\obj\Debug\Task3.pdb
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task3\bin\Debug\Task3.dll
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task3\bin\Debug\Task3.pdb
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task3\obj\Debug\Task3.dll
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task3\obj\Debug\Task3.pdb

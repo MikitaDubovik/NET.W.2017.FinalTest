@@ -8,3 +8,9 @@ C:\Users\MIB\Desktop\23.11.2017\Task 2\bin\Debug\Task 2.pdb
 C:\Users\MIB\Desktop\23.11.2017\Task 2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
 C:\Users\MIB\Desktop\23.11.2017\Task 2\obj\Debug\Task 2.dll
 C:\Users\MIB\Desktop\23.11.2017\Task 2\obj\Debug\Task 2.pdb
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task2\bin\Debug\Task 2.dll
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task2\bin\Debug\Task 2.pdb
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task2\obj\Debug\Task 2.dll
+C:\Users\User Pro\source\repos\NET.W.2017.FinalTest\NET.W.2017.Dubovik.Test\Task2\obj\Debug\Task 2.pdb
