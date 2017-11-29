@@ -24,13 +24,23 @@ namespace Task5.Test
 
             document.Convert(transformer.Object);
 
-            transformer.Verify(transform=>transform.ConvertPlainText(It.IsAny<string>()), Times.Once);
-
             transformer.Verify(visitor => visitor.ConvertPlainText(It.IsAny<string>()), Times.Once);
             transformer.Verify(visitor => visitor.ConvertHyperlink(It.IsAny<string>(), It.IsAny<string>()), Times.Once);
             transformer.Verify(visitor => visitor.ConvertToLaTeX(It.IsAny<string>()), Times.Once);
 
 
+        }
+
+        [Test]
+        public void DocumentPartTest()
+        {
+            var transformer = new Mock<ITransformer>();
+
+            var boldText = new BoldText();
+
+            boldText.Transform(transformer.Object);
+
+            transformer.Verify(visitor => visitor.ConvertToLaTeX(It.IsAny<string>()), Times.Once);
         }
     }
 }

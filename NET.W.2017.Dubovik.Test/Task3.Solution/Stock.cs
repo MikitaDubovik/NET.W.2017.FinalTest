@@ -8,7 +8,7 @@ namespace Task3
 {
     public class Stock
     {
-        public event EventHandler<StockInfoArgs> StocksInfo;
+        public virtual event EventHandler<StockInfoArgs> StocksInfo;
 
         public void Market()
         {
